@@ -3,6 +3,10 @@
   "displayName": "froggy-theme",
   "description": "A cute nature/pond/frog themed light theme.",
   "icon": "images/frog.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beckydvn/froggy-theme"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.77.0"
