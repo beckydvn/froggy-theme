@@ -1,0 +1,22 @@
+{
+  "name": "froggy-theme",
+  "displayName": "froggy-theme",
+  "description": "A cute nature/pond/frog themed light theme.",
+  "icon": "images/frog.jpg",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "green spring froggy theme",
+        "uiTheme": "vs",
+        "path": "./themes/green spring froggy theme-color-theme.json"
+      }
+    ]
+  }
+}
