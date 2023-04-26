@@ -1,5 +1,3 @@
-# froggy-theme README
-
-A cute green nature/pond/frog themed light theme.
+Enjoy! :3
 
 ![preview](./images/preview.png)
